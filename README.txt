@@ -1,1 +1,1 @@
-Lean and test Git
+Learn and test Git
